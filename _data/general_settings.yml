@@ -1,12 +1,8 @@
 # General Settings
-title: "SportsTechwest"
-email: "sportstechwest@sportstechwest.com"
+title: "Centre4teens"
+email: "info@Centre4teens.org"
 email_2: ""
 description: >- # this means to ignore newlines until "baseurl:"
-
-# Seo Meta Settings
-meta_og_image: "/assets/images/meta-image.webp"
-meta_twitter_image: "/assets/images/meta-image.webp"
 
 # Site Wide Theme Color Setting
 color_scheme: Red # Aqua Blue Brown Cobalt Green Hibiscus Leaf Meander Orange Pink Purple Red Rose Sky Teal Violet Yellow
@@ -15,15 +11,15 @@ color_scheme: Red # Aqua Blue Brown Cobalt Green Hibiscus Leaf Meander Orange Pi
 font_scheme: # Jost, Nunito , DM Sans + Zilla Slab , HK Grotesk, Abhaya, Libre
 
 # Sitewide Logo
-black_logo_1x: "/assets/images/logo.png"
-black_logo_2x: "/assets/images/logo.png"
-light_logo_1x: "/assets/images/logo.png"
-light_logo_2x: "/assets/images/logo.png"
+black_logo_1x: "/assets/images/logo/logo.png"
+black_logo_2x: "/assets/images/logo/logo.png"
+light_logo_1x: "/assets/images/logo/logo.png"
+light_logo_2x: "/assets/images/logo/logo.png"
 
-address_01: "Moonshine St. <br>14/05 Light City,<br /> London, United Kingdom"
-phone_number: "+00 (123) 456 78 90"
-about_us: " “Welcome to SportsTechWest, a blog exploring the journey from professional athlete to sports tech vagabonder. Join us in discovering the global intersection of sport, science and technology.”"
-copyright_text: "© 2025 SportsTechwest. All rights reserved."
+address_01: "Tundu Fulani<br>Bwari,<br /> Abuja, Nigeria"
+phone_number: "+234 815 645 8620"
+about_us: " “Centre for Teens is a safe, supportive space where Nigerian teenagers are empowered with knowledge, life skills, and opportunities to thrive.”"
+copyright_text: "© 2025 Centre4Teens. All rights reserved."
 
 google_analytics:
   enable: false
@@ -35,19 +31,19 @@ google_map: |
 social_accounts:
   title: "Follow Us"
   links:
-    - url: "https://www.twitter.com/sportstechwest"
-      icon: "fab fa-twitter"
+    - url: "https://www.linkedin.com/company/centre4teens/"
+      icon: "fab fa-linkedin"
 
-    - url: "https://www.facebook.com/profile.php?id=100069855647783"
+    - url: "https://www.facebook.com/profile.php?id=100092581213755&mibextid=LQQJ4d"
       icon: "fab fa-facebook"
 
-    - url: "https://www.instagram.com/sportstechwest/"
+    - url: "https://www.instagram.com/centre4teens?igsh=b2pnOWJ1bHRjaDgz&utm_source=qr"
       icon: "fab fa-instagram"
 
-    - url: "https://github.com/rashadwest"
-      icon: "fab fa-github"
+    - url: "https://www.tiktok.com/@centre4teens?_t=8n7cT1BtMpy&_r=1"
+      icon: "fab fa-tiktok"
 
-    - url: "#"
+    - url: "https://www.youtube.com/@Centre4Teens"
       icon: "fab fa-youtube"
 
 external_links:

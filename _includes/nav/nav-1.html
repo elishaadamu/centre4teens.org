@@ -1,15 +1,4 @@
-<style>
-  .navbar.fixed.transparent .logo-dark {
-    filter: invert(0) !important;
-  }
-  .navbar.fixed.transparent .logo-light {
-    filter: invert(1) !important;
-  }
-  .logo-dark,
-  .logo-light {
-    filter: invert(1);
-  }
-</style>
+<style></style>
 <!--  Nav Name :Classic Header -->
 <nav
   class="navbar absolute transparent inverse-text navbar-hover-opacity nav-uppercase navbar-expand-lg"
@@ -20,7 +9,9 @@
       data-default-logo="{{ include.default_logo | default: 'white' }}"
     >
       <!-- White Logo -->
-      <a href="{{site.url}}"
+      <a
+        href="{{site.url}}"
+        class="flex justify-content-center align-items-center gap-1"
         ><img
           src="{{site.data.general_settings.light_logo_1x}}"
           srcset="
@@ -29,7 +20,16 @@
           "
           class="logo-light {% if include.default_logo == 'black' %}d-none{% endif %}"
           alt="{{site.data.general_settings.title}}"
-      /></a>
+        />
+        <div class="flex flex-col tagname">
+          <p style="font-size: 14px; margin-bottom: 0px; font-weight: 600">
+            Centre for teens
+          </p>
+          <p style="font-size: 10px; margin-bottom: 0px; font-weight: 600">
+            Health and Development
+          </p>
+        </div>
+      </a>
 
       <a href="{{site.url}}">
         <!-- Black Logo -->
@@ -63,7 +63,6 @@
               {{site.data.general_settings.light_logo_2x}} 2x
             "
             alt="{{site.data.general_settings.title}}"
-            style="width: 120px; filter: invert(1)"
         /></a>
         <button class="plain offcanvas-close offcanvas-nav-close">
           <i class="jam jam-close"></i>

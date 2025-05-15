@@ -1,14 +1,13 @@
 /* Custom styling */
 .logo-dark,
 .logo-light {
-  width: 130px !important;
+  width: 90px !important;
 }
 @media screen and (max-width: 1024px) {
 }
 
 footer .widget img {
-  width: 130px;
-  filter: invert(1);
+  width: 90px;
 }
 
 @media screen and (min-width: 1024px) {
@@ -85,4 +84,8 @@ footer .widget img {
 }
 .pagination .active a {
   color: white !important;
+}
+
+.banner--stick .tagname {
+  display: none;
 }

@@ -17,6 +17,9 @@ main_menu:
   - text: "Blog"
     url: "/blogs"
 
+  - text: "Contact Us"
+    url: "/contact"
+
   # - text: "Pages"
   #   url: "/"
   #   menu_type: "dropdown"

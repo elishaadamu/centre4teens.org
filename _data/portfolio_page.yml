@@ -3,283 +3,410 @@ portfolios_area:
   title: "My Portfolio"
   sub_title: "Check out some of my Projects and Achievements"
   button_url: "/portfolios/masonry-portfolio"
-  button_text: "View my Portfolios"
+  button_text: "View our Projects"
   categories:
-    - title: "Gallery"
-      filter: "gallery"
-    - title: "Certificates"
-      filter: "certificates"
-    - title: "Analytics Culture"
-      filter: "analytics_culture"
+    - title: "BoyThrive Conference"
+      filter: "BoyThrive"
+    - title: "Catalyst of Change Program"
+      filter: "Catalyst_of_Change_Program"
+    - title: "Mental Health Awareness Program"
+      filter: "Mental Health Awareness Program"
+    - title: "Project Education & Reproductive Health"
+      filter: "Project Education & Reproductive Health"
+    - title: "Project Empower Her 2023"
+      filter: "Project Empower Her 2023"
+    - title: "Project Reach IDPs 2023"
+      filter: "Project Reach IDPs 2023"
+    - title: "Seen Summit 2024"
+      filter: "Seen Summit 2024"
+    - title: "team_members"
+      filter: "team_members"
+    - title: "WASH Project 2024"
+      filter: "WASH Project 2024"
 
   portfolios:
-    - title: "AI Business Fundamentals"
-      sub_title: "certificate in AI Business Fundamentals"
-      sm_image: "/assets/images/certificates/AI_Biz_Funda.png"
-      big_image: "/assets/images/certificates/AI_Biz_Funda.png"
+    - title: "BoyThrive (4)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "AI Ethics"
-      sub_title: "certificate in AI Ethics"
-      sm_image: "/assets/images/certificates/AI Ethics.webp"
-      big_image: "/assets/images/certificates/AI Ethics.webp"
+    - title: "BoyThrive (13)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "AI Fundamentals"
-      sub_title: "certificate in AI Fundamentals"
-      sm_image: "/assets/images/certificates/AI Fundamentals.webp"
-      big_image: "/assets/images/certificates/AI Fundamentals.webp"
+    - title: "BoyThrive (19)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "AI Fundamentals"
-      sub_title: "certificate in AI Fundamentals"
-      sm_image: "/assets/images/certificates/AI Fundamentals.png"
-      big_image: "/assets/images/certificates/AI Fundamentals.png"
+    - title: "BoyThrive (24)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "AI Strategy"
-      sub_title: "certificate in AI Strategy"
-      sm_image: "/assets/images/certificates/AI Strategy.png"
-      big_image: "/assets/images/certificates/AI Strategy.png"
+    - title: "BoyThrive (36)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Data Manipulation with pandas"
-      sub_title: "certificate in Data Manipulation with pandas"
-      sm_image: "/assets/images/certificates/Data Manipulation with pandas.webp"
-      big_image: "/assets/images/certificates/Data Manipulation with pandas.webp"
+    - title: "BoyThrive (51)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (51).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (51).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Generative AI Concepts"
-      sub_title: "certificate in Generative AI Concepts"
-      sm_image: "/assets/images/certificates/Generative AI Concepts.webp"
-      big_image: "/assets/images/certificates/Generative AI Concepts.webp"
+    - title: "BoyThrive (72)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (72).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (72).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Implementing AI Solutions in Business"
-      sub_title: "certificate in Implementing AI Solutions in Business"
-      sm_image: "/assets/images/certificates/Implementing AI Solutions in Business.png"
-      big_image: "/assets/images/certificates/Implementing AI Solutions in Business.png"
+    - title: "BoyThrive (101)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (101).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (101).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Intermediate Python"
-      sub_title: "certificate in Intermediate Python"
-      sm_image: "/assets/images/certificates/Intermediate Python.webp"
-      big_image: "/assets/images/certificates/Intermediate Python.webp"
+    - title: "BoyThrive (113)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (113).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (113).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to ChatGPT"
-      sub_title: "certificate in Introduction to ChatGPT"
-      sm_image: "/assets/images/certificates/Introduction to ChatGPT.webp"
-      big_image: "/assets/images/certificates/Introduction to ChatGPT.webp"
+    - title: "BoyThrive (119)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (119).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (119).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to Data Literacy"
-      sub_title: "certificate in Introduction to Data Literacy"
-      sm_image: "/assets/images/certificates/Introduction to Data Literacy.webp"
-      big_image: "/assets/images/certificates/Introduction to Data Literacy.webp"
+    - title: "BoyThrive (121)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (121).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (121).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to Data Visualization with Matplotlib"
-      sub_title: "certificate in Introduction to Data Visualization with Matplotlib"
-      sm_image: "/assets/images/certificates/Introduction to Data Visualization with Matplotlib.webp"
-      big_image: "/assets/images/certificates/Introduction to Data Visualization with Matplotlib.webp"
+    - title: "BoyThrive (123)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (123).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (123).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to Data Visualization with seaborn"
-      sub_title: "certificate in Introduction to Data Visualization with seaborn"
-      sm_image: "/assets/images/certificates/Introduction to Data Visualization with seaborn.webp"
-      big_image: "/assets/images/certificates/Introduction to Data Visualization with seaborn.webp"
+    - title: "BoyThrive (128)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (128).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (128).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to Python"
-      sub_title: "certificate in Introduction to Python"
-      sm_image: "/assets/images/certificates/Introduction to Python.webp"
-      big_image: "/assets/images/certificates/Introduction to Python.webp"
+    - title: "BoyThrive (131)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (131).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (131).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Introduction to SQL"
-      sub_title: "certificate in Introduction to SQL"
-      sm_image: "/assets/images/certificates/Introduction to SQL.webp"
-      big_image: "/assets/images/certificates/Introduction to SQL.webp"
+    - title: "BoyThrive (154)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (154).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (154).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Large Language Models (LLMs) Concepts"
-      sub_title: "certificate in Large Language Models (LLMs) Concepts"
-      sm_image: "/assets/images/certificates/Large Language Models (LLMs) Concepts.webp"
-      big_image: "/assets/images/certificates/Large Language Models (LLMs) Concepts.webp"
+    - title: "BoyThrive (167)"
+      sub_title: "BoyThrive Conference Photo"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (167).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (167).jpeg"
       url: "#"
       filters:
-        - certificates
+        - "BoyThrive"
 
-    - title: "Large Language Models for Business"
-      sub_title: "certificate in Large Language Models for Business"
-      sm_image: "/assets/images/certificates/LL_Biz_Model.png"
-      big_image: "/assets/images/certificates/LL_Biz_Model.png"
-      url: "#"
-      filters:
-        - certificates
+    # Catalyst of Change Program
 
-    - title: "Marketing Analytics for Business"
-      sub_title: "certificate in Marketing Analytics for Business"
-      sm_image: "/assets/images/certificates/Marketing Analytics for Business.png"
-      big_image: "/assets/images/certificates/Marketing Analytics for Business.png"
+    - title: "Michael Ogunbiyi"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Monetizing AI Strategy"
-      sub_title: "certificate in Monetizing AI Strategy"
-      sm_image: "/assets/images/certificates/Monetizing AI.png"
-      big_image: "/assets/images/certificates/Monetizing AI.png"
+    - title: "Lucky Owoicho"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Understanding Data Engineering"
-      sub_title: "certificate in Understanding Data Engineering"
-      sm_image: "/assets/images/certificates/Understanding Data Engineering.webp"
-      big_image: "/assets/images/certificates/Understanding Data Engineering.webp"
+    - title: "Virtual Session Screenshot"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Understanding Data Science"
-      sub_title: "certificate in Understanding Data Science"
-      sm_image: "/assets/images/certificates/Understanding Data Science.webp"
-      big_image: "/assets/images/certificates/Understanding Data Science.webp"
+    - title: "Virtual Session Screenshot"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Understanding Data Visualization"
-      sub_title: "certificate in Understanding Data Visualization"
-      sm_image: "/assets/images/certificates/Understanding Data Visualization.webp"
-      big_image: "/assets/images/certificates/Understanding Data Visualization.webp"
+    - title: "Virtual Session Screenshot"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Understanding Machine Learning"
-      sub_title: "certificate in Understanding Machine Learning"
-      sm_image: "/assets/images/certificates/Understanding Machine Learning.webp"
-      big_image: "/assets/images/certificates/Understanding Machine Learning.webp"
+    - title: "God'swill Bawa Sheriff"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2201.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2201.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Understanding Prompt Engineering"
-      sub_title: "certificate in Understanding Prompt Engineering"
-      sm_image: "/assets/images/certificates/understanding-prompt-engineering.webp"
-      big_image: "/assets/images/certificates/understanding-prompt-engineering.webp"
+    - title: "God'swill Bawa Sheriff (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2202.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2202.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Working with OpenAI API"
-      sub_title: "certificate in Working with OpenAI API"
-      sm_image: "/assets/images/certificates/Working_with_OpenAI_API.png"
-      big_image: "/assets/images/certificates/Working_with_OpenAI_API.png"
+    - title: "Lasisi Goodwin Onadalopo"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2203.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2203.png"
       url: "#"
       filters:
-        - certificates
+        - Catalyst_of_Change_Program
 
-    - title: "Superbowl"
-      sub_title: "Super Bowl Weekend in Las Vegas"
-      sm_image: "/assets/images/gallery/superbowl-2.webp"
-      big_image: "/assets/images/gallery/superbowl-2.webp"
+    - title: "Lasisi Goodwin Onadalopo (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2204.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2204.png"
       url: "#"
       filters:
-        - gallery
-    - title: "NBA All Stars Event"
-      sub_title: "Photo with Paul Roberson"
-      sm_image: "/assets/images/gallery/nba-all-stars-1.webp"
-      big_image: "/assets/images/gallery/nba-all-stars-1.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Sir Collins Sophy Buma"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2205.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2205.png"
       url: "#"
       filters:
-        - gallery
-    - title: "Paul Roberson at Vault Event during NBA Summer League"
-      sub_title: "Photo with Paul Roberson"
-      sm_image: "/assets/images/gallery/nba-all-stars-3.webp"
-      big_image: "/assets/images/gallery/nba-all-stars-3.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Sir Collins Sophy Buma (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2206.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2206.png"
       url: "#"
       filters:
-        - gallery
-    - title: "Rashad West at the Paris Olympics"
-      sub_title: "BTE Analytics"
-      sm_image: "/assets/images/gallery/bte.webp"
-      big_image: "/assets/images/gallery/bte.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Adams Okloho"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2207.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2207.png"
       url: "#"
       filters:
-        - gallery
-    - title: "Rashad West together with Olympians"
-      sub_title: "Breaking Bread with Olympians"
-      sm_image: "/assets/images/gallery/together-with-olympians-3.webp"
-      big_image: "/assets/images/gallery/together-with-olympians-3.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Adams Okloho (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2208.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2208.png"
       url: "#"
       filters:
-        - gallery
-    - title: "Analytics with Spencer"
-      sub_title: "Dribbles Analysed"
-      sm_image: "/assets/images/gallery/1.gif"
-      big_image: "/assets/images/gallery/1.gif"
+        - Catalyst_of_Change_Program
+
+    - title: "Mubarak Amode"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2209.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2209.png"
       url: "#"
       filters:
-        - analytics_culture
-    - title: "Steph Curry BTE 4 Combos"
-      sub_title: "Steph Curry Analytics"
-      sm_image: "/assets/images/gallery/2.gif"
-      big_image: "/assets/images/gallery/2.gif"
+        - Catalyst_of_Change_Program
+
+    - title: "Mubarak Amode (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2210.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2210.png"
       url: "#"
       filters:
-        - analytics_culture
-    - title: "Exploring the Latest Advancements in XR Technology"
-      sub_title: "Analyzing NBA Positions and Interactions"
-      sm_image: "/assets/images/gallery/20240302_164716.webp"
-      big_image: "/assets/images/gallery/20240302_164716.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Application Closed Notice"
+      sub_title: "Catalyst of Change Program Update"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2211.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2211.png"
       url: "#"
       filters:
-        - analytics_culture
-    - title: "Sports Analytics Conference"
-      sub_title: "The Strain of Success"
-      sm_image: "/assets/images/gallery/20240302_164842.webp"
-      big_image: "/assets/images/gallery/20240302_164842.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Check Your Email"
+      sub_title: "Catalyst of Change Program Reminder"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2212.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2212.png"
       url: "#"
       filters:
-        - analytics_culture
-    - title: "First Designs for Basketball"
-      sub_title: "Analysis"
-      sm_image: "/assets/images/gallery/First_Designs_for_basketball.webp"
-      big_image: "/assets/images/gallery/First_Designs_for_basketball.webp"
+        - Catalyst_of_Change_Program
+
+    - title: "Join the Catalyst"
+      sub_title: "Program Overview"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2213.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2213.png"
       url: "#"
       filters:
-        - analytics_culture
+        - Catalyst_of_Change_Program
+
+    - title: "Slide Presentation"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2215.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2215.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Slide Presentation 2"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2216.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2216.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Presentation Screenshot"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2217.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2217.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Presentation Screenshot 2"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2218.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2218.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2219.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2219.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 2"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2220.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2220.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 3"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2221.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2221.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 4"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2222.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2222.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 5"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2224.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2224.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 6"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2225.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2225.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Meeting Participants"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2226.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2226.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Virtual Meeting Grid 7"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2227.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2227.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Mr. Orekoya Bukola Isreal Toibola"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2228.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2228.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program
+
+    - title: "Mr. Orekoya Bukola (Bio)"
+      sub_title: "Catalyst of Change Program"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2229.png"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2229.png"
+      url: "#"
+      filters:
+        - Catalyst_of_Change_Program

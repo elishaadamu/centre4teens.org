@@ -1,7 +1,9 @@
-hero_area:
+slider_area:
   enable: true
-  bg_image: "/assets/images/display/Symposium.jpg"
-  title: "Where sports meets Creativity"
-  sub_title: "Check out my Journey and Achievements"
-  btn_text: "Let's Begin"
-  btn_url: "#about"
+  title: Centre for Teens
+  sub_title: Educate. Empower. Transform
+  sliders:
+    - img: "/assets/images/display/image-1.jpg"
+    - img: "/assets/images/display/image-2.jpg"
+    - img: "/assets/images/display/image-5.jpg"
+    - img: "/assets/images/display/image-4.jpg"

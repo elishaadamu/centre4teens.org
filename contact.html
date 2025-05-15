@@ -17,8 +17,8 @@ contact_info:
 
     - icon: "/assets/images/icons/co-email-5.webp"
       info:
-      - "manager@email.com <br/>"
-      - "asistant@email.com"
+        - "manager@email.com <br/>"
+        - "asistant@email.com"
 
 contact_form:
   enable: true
@@ -26,21 +26,20 @@ contact_form:
   sub_title: "For more information please get in touch using the form below:"
   action_email: "tortoizthemes@gmail.com"
   bg_image: "/assets/images/art/bg20.webp"
-  forms_data: 
-
+  forms_data:
     - field_type: "input"
       field_name: "user_first_name"
-      placeholder: "First Name" 
+      placeholder: "First Name"
       error_message: "First Name Is required"
 
     - field_type: "input"
       field_name: "user_last_name"
-      placeholder: "Last Name" 
+      placeholder: "Last Name"
       error_message: "Last Name Is required"
 
     - field_type: "input"
       field_name: "user_phone"
-      placeholder: "Phone Number" 
+      placeholder: "Phone Number"
       error_message: "Phone Number Is required"
 
     - field_type: "input"
@@ -55,9 +54,7 @@ contact_form:
 
 google_maps:
   enable: true
-  
+permalink: /contact
 ---
 
-{% include contact/contact-info.html %}
-{% include contact/contact-2.html %}
-{% include contact/gmap.html %}
+{% include contact/contact-2.html %} {% include contact/gmap.html %}
