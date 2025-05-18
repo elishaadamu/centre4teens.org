@@ -27,40 +27,40 @@ portfolios_area:
   portfolios:
     - title: "BoyThrive (4)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (4).JPEG"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (4).JPEG"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (13)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (13).JPEG"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (13).JPEG"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (19)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (19).JPEG"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (19).JPEG"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (24)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (24).JPEG"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (24).JPEG"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (36)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (36).JPEG"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (36).JPEG"
       url: "#"
       filters:
         - "BoyThrive"
@@ -69,40 +69,40 @@ portfolios_area:
 
     - title: "Michael Ogunbiyi"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Lucky Owoicho"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
