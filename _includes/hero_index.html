@@ -12,12 +12,20 @@
     justify-content: center;
     pointer-events: none; /* allows slider controls to work */
   }
+  .tp-caption_title {
+    font-weight: 900 !important;
+  }
   .slider-overlay-text {
     color: #fff;
     font-size: 2rem;
     font-weight: bold;
     text-align: center;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  }
+  .tp-mask-wrap {
+    display: flex !important;
+    flex-direction: column-reverse;
+    gap: 50px;
   }
 </style>
 <div class="wrapper dark-wrapper">
@@ -34,7 +42,7 @@
 
         {% endfor %}
       </ul>
-      <div class="tp-static-layers">
+      <div class="tp-static-layers hero_container">
         {% if site.data.hero_index.slider_area.sub_title %}
         <div
           class="tp-caption tp-static-layer font-weight-500 color-white text-uppercase text-center"
@@ -59,12 +67,12 @@
         <!-- /.tp-caption -->
         {% if site.data.hero_index.slider_area.title %}
         <div
-          class="tp-caption tp-static-layer text-lowercase font-weight-500 color-white text-center"
+          class="tp-caption tp-caption_title tp-static-layer text-uppercase mt-[70px] font-weight-900 color-white text-center"
           data-x="center"
           data-y="middle"
           data-voffset="['0','0','0','10']"
-          data-fontsize="['70','70','70','46']"
-          data-lineheight="['80','80','80','56']"
+          data-fontsize="['50','50','50','35']"
+          data-lineheight="['60','60','60','56']"
           data-width="['600','600','600','340']"
           data-textAlign="['center','center','center','center']"
           data-whitespace="['normal','normal','normal','normal']"
