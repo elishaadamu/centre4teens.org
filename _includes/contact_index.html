@@ -44,7 +44,8 @@
         <form
           id="contact-form"
           class="fields-white"
-          action="https://formsubmit.io/send/{{site.data.contact_index.contact_area.action_email}}"
+          method="POST"
+          action="{{page.contact_form.action_email}}"
         >
           <div class="messages"></div>
           <div class="controls">
