@@ -1,77 +1,47 @@
-<div class="wrapper light-wrapper">
+<div class="wrapper bg-opacity-default" id="about">
   <div class="container inner">
-    {% if site.data.services_index.services_area.enable %}
-    <div class="services-wrapper">
-      <div class="row align-items-center">
-        <div class="col-xl-6 order-lg-2 pl-60 pl-md-15">
-          {% if site.data.services_index.services_area.title %}
-          <h2 class="section-title">
-            {{site.data.services_index.services_area.title}}
-          </h2>
-          {% endif %} {% if site.data.services_index.services_area.sub_title %}
-          <p class="lead larger">
-            {{site.data.services_index.services_area.sub_title}}
-          </p>
-          {% endif %}
-          <div class="space20"></div>
-          {% if site.data.services_index.services_area.description %}
-          <p>{{site.data.services_index.services_area.description}}</p>
-          {% endif %} {% if site.data.services_index.services_area.button_text
-          %}
-          <div class="space20"></div>
-          <a
-            href="{{site.data.services_index.services_area.button_url}}"
-            class="btn"
-            >{{site.data.services_index.services_area.button_text}}</a
-          >
+    {% if site.data.about_index.about_area.enable %}
+    <div class="row align-items-center flex-row-reverse">
+      <div class="col-lg-6 order-lg-2 text-center">
+        <div class="position-relative">
+          {% if site.data.about_index.about_area.image %}
+          <figure>
+            <div class="img-blob blob9">
+              <img
+                src="{{relative_url}}/assets/images/display/header_about.jpeg"
+                style="width: 30rem"
+                alt=""
+              />
+            </div>
+          </figure>
           {% endif %}
         </div>
-        <!--/column -->
-        <div class="space50 d-none d-md-block d-xl-none"></div>
-        <div class="col-xl-6 text-center grid">
-          <div class="row isotope">
-            {% for service in site.data.services_index.services_area.services %}
-            {% assign check_index = forloop.index | modulo: 2 %} {% unless
-            check_index == 1 %}
-            <div class="col-md-6 item grid-sizer">
-              <div class="space30"></div>
-              <div class="box {{service.bg_color}} shadow inverse-text">
-                {% if service.icon %}
-                <div class="icon color-white fs-42 mb-20">
-                  <i class="{{service.icon}}"></i>
-                </div>
-                {% endif %}
-                <h5>{{service.title}}</h5>
-                <p>{{service.description}}</p>
-              </div>
-              <!--/.box -->
-            </div>
-            <!--/column -->
-            {% else %}
-            <div class="col-md-6 item grid-sizer">
-              {% unless forloop.index == 1 %}
-              <div class="space30 d-none d-md-block"></div>
-              {% endunless %}
-              <div class="box {{service.bg_color}} shadow inverse-text">
-                {% if service.icon %}
-                <div class="icon color-white fs-42 mb-20">
-                  <i class="{{service.icon}}"></i>
-                </div>
-                {% endif %}
-                <h5>{{service.title}}</h5>
-                <p>{{service.description}}</p>
-              </div>
-              <!--/.box -->
-            </div>
-            <!--/column -->
-            {% endunless %} {% endfor %}
-          </div>
-          <!--/.row -->
-        </div>
-        <!--/column -->
       </div>
-      <!--/.row -->
+      <!--/column -->
+      <div class="space30 d-none d-md-block d-lg-none"></div>
+      <div class="col-lg-6 pr-60 pr-md-15">
+        <h2>Our Objectives</h2>
+        <p>
+          TCentre for Teens Health and Development (Centre4Teens) is a
+          youth-focused non-profit organization dedicated to supporting the
+          holistic growth of teenagers across Nigeria.
+        </p>
+        <h2>Our Mission</h2>
+        <p>
+          To empower teens with the knowledge, skills, and mindset they need to
+          make informed decisions, adopt healthy habits, and grow into
+          self-reliant, thriving adults.
+        </p>
+        <h2>Our Vision</h2>
+        <p>
+          A world where every teenager is healthy, confident, and empowered to
+          reach their full potential and contribute meaningfully to society.
+        </p>
+      </div>
+      <!--/column -->
     </div>
+    <!--/.row -->
     {% endif %}
   </div>
 </div>
+<!--wrapper About Us-->

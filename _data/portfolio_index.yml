@@ -27,40 +27,40 @@ portfolios_area:
   portfolios:
     - title: "BoyThrive (4)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (4).JPEG"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (4).JPEG"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (4).jpeg"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (13)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (13).JPEG"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (13).JPEG"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (13).jpeg"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (19)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (19).JPEG"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (19).JPEG"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (19).jpeg"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (24)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (24).JPEG"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (24).JPEG"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (24).jpeg"
       url: "#"
       filters:
         - "BoyThrive"
 
     - title: "BoyThrive (36)"
       sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (36).JPEG"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (36).JPEG"
+      sm_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
+      big_image: "/assets/images/projects/BoyThrive Conference/1 (36).jpeg"
       url: "#"
       filters:
         - "BoyThrive"

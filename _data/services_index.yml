@@ -1,15 +1,9 @@
 services_area:
   enable: true
   title: "Our Objectives"
-  sub_title: "TCentre for Teens Health and Development (Centre4Teens) is a youth-focused non-profit organization dedicated to supporting the holistic growth of teenagers across Nigeria. "
+  sub_title: "TCentre for Teens Health and Development (Centre4Teens) is a youth-focused non-profit organization dedicated to supporting the holistic growth of teenagers across Nigeria."
   description: |
-    We provide safe, inclusive, and empowering spaces for teens to learn, express themselves, and build critical life skills. Our programs focus on personal development, sexual and reproductive health education, and skills empowerment, especially for adolescents in underserved and vulnerable communities.
-    <br/>
-    Since our founding, we’ve remained committed to nurturing informed, confident, and capable young people who can take charge of their futures and drive positive change in their communities.
-    <br/>
-    Our flagship project, MO Reusable Pads, launched in 2022, provides education on safe menstrual hygiene practices and hands-on training in the making and maintenance of eco-friendly reusable pads. This project serves teenage girls in underserved communities and internally displaced persons (IDP) camps across Nigeria, promoting dignity, sustainability, and health.
-    <br/>
-    At Centre4teens we believe that when teenagers are educated and empowered, they are transformed, ready to build a better future for themselves and their communities.
+
   button_text: "More Details"
   button_url: "#"
   services:
