@@ -22,11 +22,6 @@
     text-align: center;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
   }
-  .tp-mask-wrap {
-    display: flex !important;
-    flex-direction: column-reverse;
-    gap: 50px;
-  }
 </style>
 <div class="wrapper dark-wrapper">
   <div class="rev_slider_wrapper fullscreen-container">
@@ -43,31 +38,10 @@
         {% endfor %}
       </ul>
       <div class="tp-static-layers hero_container">
-        {% if site.data.hero_index.slider_area.sub_title %}
-        <div
-          class="tp-caption tp-static-layer font-weight-500 color-white text-uppercase text-center"
-          data-x="center"
-          data-y="middle"
-          data-voffset="['-110','-110','-110','-90']"
-          data-fontsize="['21','21','21','21']"
-          data-lineheight="['31','31','31','31']"
-          data-width="['600','600','600','340']"
-          data-textAlign="['center','center','center','center']"
-          data-whitespace="['normal','normal','normal','normal']"
-          data-frames='[{"delay":500,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"sX:0.9;sY:0.9;opacity:0;fb:20px;","ease":"Power3.easeInOut"}]'
-          data-responsive="on"
-          data-responsive_offset="on"
-          data-startslide="0"
-          data-endslide="7"
-          style="z-index: 9; letter-spacing: 2px"
-        >
-          {{site.data.hero_index.slider_area.sub_title}}
-        </div>
-        {% endif %}
         <!-- /.tp-caption -->
         {% if site.data.hero_index.slider_area.title %}
         <div
-          class="tp-caption tp-caption_title tp-static-layer text-uppercase mt-[70px] font-weight-900 color-white text-center"
+          class="tp-caption tp-caption_title tp-static-layer text-uppercase mt-[-70px] font-weight-900 color-white text-center"
           data-x="center"
           data-y="middle"
           data-voffset="['0','0','0','10']"
@@ -84,6 +58,24 @@
           style="z-index: 9"
         >
           {{site.data.hero_index.slider_area.title}}
+
+          <h2
+            class="text-white"
+            style="
+              font-size: 39px !important;
+              margin-top: 10px !important;
+              line-height: 1rem;
+              font-weight: 900;
+            "
+          >
+            {{site.data.hero_index.slider_area.title_2}}
+          </h2>
+          <h4
+            class="text-white"
+            style="font-size: 20px !important; margin-top: 50px"
+          >
+            {{site.data.hero_index.slider_area.sub_title}}
+          </h4>
         </div>
         <!-- /.tp-caption -->
         {% endif %}

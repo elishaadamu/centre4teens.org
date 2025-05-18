@@ -2,32 +2,23 @@ contact_area:
   enable: true
   title: "Get in Touch"
   sub_title: "Have any questions? Reach out to us from our contact form and we will get back to you shortly."
-  action_email: "info@Centre4teens.org"
+  action_email: "https://formspree.io/f/xkgrydnw"
+  email_contact: info@Centre4teens.org
   image: "/assets/images/art/about8.webp"
   address: |
     Tundu Fulani Bwari,<br /> Abuja, Nigeria
   forms_data:
     - field_type: "input"
-      field_name: "first_name"
-      placeholder: "First Name"
-      error_message: "First Name Is required"
+      field_name: "name"
+      placeholder: "Full Name"
+      error_message: "Full Name Is required"
 
     - field_type: "input"
-      field_name: "last_name"
-      placeholder: "Last Name"
-      error_message: "Last Name Is required"
-
-    - field_type: "input"
-      field_name: "last_email"
+      field_name: "email"
       placeholder: "Email"
       error_message: "Email Is required"
 
-    - field_type: "input"
-      field_name: "user_phone"
-      placeholder: "Phone"
-      error_message: "Phone Number Is required"
-
     - field_type: "textarea"
-      field_name: "user_message"
+      field_name: "message"
       placeholder: "Message"
       error_message: "Message Is required"
