@@ -1448,11 +1448,7 @@ footer.dark-wrapper,
     rgba(149, 74, 166, 1) 0%,
     rgba(114, 90, 238, 1) 100%
   );
-  background-image: linear-gradient(
-    135deg,
-    rgba(149, 74, 166, 1) 0%,
-    rgba(114, 90, 238, 1) 100%
-  );
+  background-image: linear-gradient(135deg);
 }
 .fill-white-wrapper {
   fill: #fff;

@@ -8,7 +8,7 @@
             <div class="item-inner">
               <div class="box bg-white shadow">
                   <blockquote>
-                    <p>"{{feedback.quote | truncate: 150}}"</p>
+                    <p class="text-black">"{{feedback.quote }}"</p>
                     <div class="blockquote-details">
                       {% if feedback.image %}
                       <div class="img-blob blob1">
@@ -17,7 +17,8 @@
                       {% endif %}
                       <div class="info">
                         <h6 class="mb-0">{{feedback.name}}</h6>
-                        <span class="meta mb-0">{{feedback.location}}</span>
+                        <h6 class="mb-0">{{feedback.age}}</h6>
+                        <span class="meta mb-0 text-gray">{{feedback.location}}</span>
                       </div>
                     </div>
                   </blockquote>

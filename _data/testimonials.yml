@@ -7,19 +7,22 @@ testimonials:
     - quote: |
         Before Centre4Teens came to my community, I used pieces of old wrappers to manage my menstruation since I started my period at age 11. I often experienced discomfort, itching, and embarrassing stains. But everything changed when I received training on menstrual hygiene and reusable pad-making. I was also given a MO Reusable Pad and underwear. Since then, I’ve felt more confident and comfortable going to school during my period. I haven’t experienced stains or itching, and I’m truly grateful for this.
       image: "/assets/images/clients/Foshra Abubakar.PNG"
-      name: "Foshra Abubakar, 16 years old"
+      name: "Foshra Abubakar"
+      age: "16 years old"
       location: "Dukpa Community, Gwagwalada Area Council, FCT"
 
     - quote: |
         Growing up, I struggled with low self-esteem because of how I looked slim and dark-skinned. My peers often mocked me, and I felt invisible. When Centre4Teens visited my community, they taught us about self-esteem and body autonomy. That was a turning point for me. They gave us a handbook that I still read whenever I feel uncertain. It reminds me that I am unique, valuable, and beautiful in my own way. Their visit changed how I see myself.
       image: "/assets/images/clients/Solomon Gift.PNG"
-      name: "Solomon Gift, 15 years old"
+      name: "Solomon Gift"
+      age: "15 years old"
       location: "Bwari Community"
 
     - quote: |
         Before Centre4Teens came to our school, I only had one underwear and used pieces of cloth during my periods, which caused constant itching and injuries. Their training, support, and encouragement transformed my experience. They taught us how to make and use MO Reusable Pads and gave us dignity kits. Today, I feel healthier, more confident, and better equipped to manage my menstruation. I am deeply thankful for their impact on my life.
       image: "/assets/images/clients/Stella Barnabas.PNG"
-      name: " Stella Barnabas, 17 years old"
+      name: " Stella Barnabas"
+      age: "17 years old"
       location: "School for the Deaf, Nasarawa State"
 
     - quote: |
@@ -33,5 +36,6 @@ testimonials:
         <br>
         I now make reusable pad that I sell to young girls in my community, with the gain I am able to buy things for myself and pay my school fees.
       image: "/assets/images/clients/Hadiza Buhama.PNG"
-      name: "Hadiza Buhama, 18 years"
+      name: "Hadiza Buhama"
+      age: "18 years old"
       location: "Karomgiji disabilities IDP camp"

@@ -22,6 +22,21 @@
     text-align: center;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
   }
+  @media (max-width: 768px) {
+    .title_1 {
+      font-size: 20px !important;
+    }
+    .title_2 {
+      font-size: 20px !important;
+      margin-top: 10px !important;
+      line-height: 37px;
+      font-weight: 900;
+    }
+    .subtitle {
+      font-size: 15px !important;
+      margin-top: 40px !important;
+    }
+  }
 </style>
 <div class="wrapper dark-wrapper">
   <div class="rev_slider_wrapper fullscreen-container">
@@ -57,22 +72,24 @@
           data-endslide="7"
           style="z-index: 9"
         >
-          {{site.data.hero_index.slider_area.title}}
+          <span class="title_1">
+            {{site.data.hero_index.slider_area.title}}</span
+          >
 
           <h2
-            class="text-white"
+            class="text-white title_2"
             style="
-              font-size: 39px !important;
-              margin-top: 10px !important;
-
+              font-size: 39px;
+              margin-top: 10px;
+              line-height: 20px;
               font-weight: 900;
             "
           >
             {{site.data.hero_index.slider_area.title_2}}
           </h2>
           <h4
-            class="text-white"
-            style="font-size: 20px !important; margin-top: 50px"
+            class="text-white subtitle"
+            style="font-size: 20px; margin-top: 50px"
           >
             {{site.data.hero_index.slider_area.sub_title}}
           </h4>
