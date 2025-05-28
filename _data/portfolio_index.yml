@@ -9,6 +9,8 @@ portfolios_area:
       filter: "BoyThrive"
     - title: "Catalyst of Change Program"
       filter: "Catalyst_of_Change_Program"
+    - title: "Cloth Distribution Project"
+      filter: "Cloth Distribution Project"
     - title: "Mental Health Awareness Program"
       filter: "Mental Health Awareness Program"
     - title: "Project Education & Reproductive Health"
@@ -106,3 +108,83 @@ portfolios_area:
       url: "#"
       filters:
         - Catalyst_of_Change_Program
+
+    - title: "Cloth Distribution (1)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8439.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8439.webp"
+      url: "#"
+      filters:
+        - "Cloth Distribution Project"
+
+    - title: "Cloth Distribution (2)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8441.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8441.webp"
+      url: "#"
+      filters:
+        - "Cloth Distribution Project"
+
+    - title: "Cloth Distribution (3)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8463.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8463.webp"
+      url: "#"
+      filters:
+        - "Cloth Distribution Project"
+
+    - title: "Cloth Distribution (4)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8470.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8470.webp"
+      url: "#"
+      filters:
+        - "Cloth Distribution Project"
+
+    - title: "Cloth Distribution (5)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8478.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8478.webp"
+      url: "#"
+      filters:
+        - "Cloth Distribution Project"
+
+    - title: "Mental Health (1)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0780.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0780.jpeg"
+      url: "#"
+      filters:
+        - "Mental Health Awareness Program"
+
+    - title: "Mental Health (2)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0783.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0783.jpeg"
+      url: "#"
+      filters:
+        - "Mental Health Awareness Program"
+
+    - title: "Mental Health (3)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0802.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0802.jpeg"
+      url: "#"
+      filters:
+        - "Mental Health Awareness Program"
+
+    - title: "Mental Health (4)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0807.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0807.jpeg"
+      url: "#"
+      filters:
+        - "Mental Health Awareness Program"
+
+    - title: "Mental Health (5)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0992.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0992.jpeg"
+      url: "#"
+      filters:
+        - "Mental Health Awareness Program"
