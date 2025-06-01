@@ -305,8 +305,8 @@ h6.text-uppercase,
 }
 .grid-view h2.post-title {
   margin-bottom: 1rem;
-  font-size: 1.1rem;
-  line-height: 1.4rem;
+  font-size: 0.6rem;
+  line-height: 1rem;
 }
 .classic-view h2.post-title,
 .caption-overlay h3 {
@@ -2790,8 +2790,8 @@ figure.overlay img {
 .more,
 .breadcrumbs,
 .breadcrumbs * {
-  margin-bottom: 1rem;
-  font-size: 0.65rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.5rem;
   line-height: 1.05rem;
   font-weight: 500;
   text-transform: uppercase;

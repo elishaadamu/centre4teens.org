@@ -2,21 +2,23 @@ portfolios_area:
   enable: true
   title: "My Portfolio"
   sub_title: "Check out some of my Projects and Achievements"
-  button_url: "/portfolios/masonry-portfolio"
+  button_url: "https://drive.google.com/drive/folders/1MCTq2OncNLNYjByCjM0RRLvHIDE1m1yU?usp=drive_link"
   button_text: "View our Projects"
   categories:
     - title: "BoyThrive Conference"
       filter: "BoyThrive"
     - title: "Catalyst of Change Program"
       filter: "Catalyst_of_Change_Program"
+    - title: "Cloth Distribution Project"
+      filter: "Cloth Distribution Project"
     - title: "Mental Health Awareness Program"
       filter: "Mental Health Awareness Program"
     - title: "Project Education & Reproductive Health"
       filter: "Project Education & Reproductive Health"
-    - title: "Project Empower Her "
-      filter: "Project Empower Her "
-    - title: "Project Reach IDPs "
-      filter: "Project Reach IDPs "
+    - title: "Project Empower Her"
+      filter: "Project Empower Her"
+    - title: "Project Reach IDPs"
+      filter: "Project Reach IDPs"
     - title: "Seen Summit"
       filter: "Seen Summit"
     - title: "team_members"
@@ -65,348 +67,324 @@ portfolios_area:
       filters:
         - "BoyThrive"
 
-    - title: "BoyThrive (51)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (51).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (51).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (72)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (72).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (72).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (101)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (101).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (101).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (113)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (113).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (113).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (119)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (119).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (119).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (121)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (121).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (121).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (123)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (123).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (123).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (128)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (128).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (128).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (131)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (131).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (131).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (154)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (154).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (154).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
-    - title: "BoyThrive (167)"
-      sub_title: "BoyThrive Conference Photo"
-      sm_image: "/assets/images/projects/BoyThrive Conference/1 (167).jpeg"
-      big_image: "/assets/images/projects/BoyThrive Conference/1 (167).jpeg"
-      url: "#"
-      filters:
-        - "BoyThrive"
-
     # Catalyst of Change Program
 
     - title: "Michael Ogunbiyi"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2196.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Lucky Owoicho"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2197.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2198.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2199.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
     - title: "Virtual Session Screenshot"
       sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.png"
+      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.PNG"
+      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2200.PNG"
       url: "#"
       filters:
         - Catalyst_of_Change_Program
 
-    - title: "God'swill Bawa Sheriff"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2201.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2201.png"
+    - title: "Cloth Distribution (1)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8439.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8439.webp"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Cloth Distribution Project"
 
-    - title: "God'swill Bawa Sheriff (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2202.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2202.png"
+    - title: "Cloth Distribution (2)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8441.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8441.webp"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Cloth Distribution Project"
 
-    - title: "Lasisi Goodwin Onadalopo"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2203.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2203.png"
+    - title: "Cloth Distribution (3)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8463.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8463.webp"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Cloth Distribution Project"
 
-    - title: "Lasisi Goodwin Onadalopo (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2204.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2204.png"
+    - title: "Cloth Distribution (4)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8470.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8470.webp"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Cloth Distribution Project"
 
-    - title: "Sir Collins Sophy Buma"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2205.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2205.png"
+    - title: "Cloth Distribution (5)"
+      sub_title: "Cloth Distribution Project Photo"
+      sm_image: "/assets/images/projects/Cloth Distribution Project/IMG_8478.webp"
+      big_image: "/assets/images/projects/Cloth Distribution Project/IMG_8478.webp"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Cloth Distribution Project"
 
-    - title: "Sir Collins Sophy Buma (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2206.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2206.png"
+    - title: "Mental Health (1)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0780.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0780.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Mental Health Awareness Program"
 
-    - title: "Adams Okloho"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2207.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2207.png"
+    - title: "Mental Health (2)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0783.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0783.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Mental Health Awareness Program"
 
-    - title: "Adams Okloho (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2208.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2208.png"
+    - title: "Mental Health (3)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0802.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0802.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Mental Health Awareness Program"
 
-    - title: "Mubarak Amode"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2209.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2209.png"
+    - title: "Mental Health (4)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0807.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0807.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Mental Health Awareness Program"
 
-    - title: "Mubarak Amode (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2210.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2210.png"
+    - title: "Mental Health (5)"
+      sub_title: "Mental Health Awareness Program Photo"
+      sm_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0992.jpeg"
+      big_image: "/assets/images/projects/Mental Health Awareness Program/IMG_0992.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Mental Health Awareness Program"
 
-    - title: "Application Closed Notice"
-      sub_title: "Catalyst of Change Program Update"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2211.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2211.png"
+    - title: "Project Education & Reproductive Health (1)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/IMG_2578.png"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/IMG_2578.png"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Education & Reproductive Health"
 
-    - title: "Check Your Email"
-      sub_title: "Catalyst of Change Program Reminder"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2212.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2212.png"
+    - title: "Project Education & Reproductive Health (2)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0352.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0352.jpg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Education & Reproductive Health"
 
-    - title: "Join the Catalyst"
-      sub_title: "Program Overview"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2213.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2213.png"
+    - title: "Project Education & Reproductive Health (3)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0357.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0357.jpg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Education & Reproductive Health"
 
-    - title: "Slide Presentation"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2215.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2215.png"
+    - title: "Project Education & Reproductive Health (4)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0366.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0366.jpg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Education & Reproductive Health"
 
-    - title: "Slide Presentation 2"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2216.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2216.png"
+    - title: "Project Education & Reproductive Health (5)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0390.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0390.jpg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Education & Reproductive Health"
 
-    - title: "Presentation Screenshot"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2217.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2217.png"
+    - title: "Project Empower Her 2023 (1)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4654.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4654.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Empower Her 2023"
 
-    - title: "Presentation Screenshot 2"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2218.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2218.png"
+    - title: "Project Empower Her 2023 (2)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4666.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/4666.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Empower Her 2023"
 
-    - title: "Virtual Meeting Grid"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2219.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2219.png"
+    - title: "Project Empower Her 2023 (3)"
+      sub_title: "Project Empower Her 2023 Photo"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4686.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4686.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Empower Her 2023"
 
-    - title: "Virtual Meeting Grid 2"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2220.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2220.png"
+    - title: "Project Empower Her 2023 (4)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4696.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4696.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Empower Her 2023"
 
-    - title: "Virtual Meeting Grid 3"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2221.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2221.png"
+    - title: "Project Empower Her 2023 (5)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4705.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4705.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Empower Her 2023"
 
-    - title: "Virtual Meeting Grid 4"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2222.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2222.png"
+    - title: "Project Reach IDPs 2023 (1)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5184.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5184.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Reach IDPs 2023"
 
-    - title: "Virtual Meeting Grid 5"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2224.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2224.png"
+    - title: "Project Reach IDPs 2023 (2)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5193.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5193.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Reach IDPs 2023"
 
-    - title: "Virtual Meeting Grid 6"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2225.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2225.png"
+    - title: "Project Reach IDPs 2023 (3)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5199.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5199.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Reach IDPs 2023"
 
-    - title: "Meeting Participants"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2226.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2226.png"
+    - title: "Project Reach IDPs 2023 (4)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5289.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5289.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Reach IDPs 2023"
 
-    - title: "Virtual Meeting Grid 7"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2227.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2227.png"
+    - title: "Project Reach IDPs 2023 (5)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5328.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5328.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Project Reach IDPs 2023"
 
-    - title: "Mr. Orekoya Bukola Isreal Toibola"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2228.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2228.png"
+    - title: "Seen Summit 2024 (1)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-5.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-5.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Seen Summit 2024"
 
-    - title: "Mr. Orekoya Bukola (Bio)"
-      sub_title: "Catalyst of Change Program"
-      sm_image: "/assets/images/projects/Catalyst of Change Program/IMG_2229.png"
-      big_image: "/assets/images/projects/Catalyst of Change Program/IMG_2229.png"
+    - title: "Seen Summit 2024 (2)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-6.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-6.jpeg"
       url: "#"
       filters:
-        - Catalyst_of_Change_Program
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (3)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-7.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-7.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (4)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-8.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-8.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (5)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-18.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-18.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "WASH Project 2024 (1)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5097.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5097.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (2)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5098.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5098.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (3)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5101.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5101.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (4)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5108.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5108.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (5)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5113.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5113.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"

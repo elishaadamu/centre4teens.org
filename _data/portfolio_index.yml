@@ -2,7 +2,7 @@ portfolios_area:
   enable: true
   title: "My Portfolio"
   sub_title: "Check out some of my Projects and Achievements"
-  button_url: "/portfolios"
+  button_url: "https://drive.google.com/drive/folders/1MCTq2OncNLNYjByCjM0RRLvHIDE1m1yU?usp=drive_link"
   button_text: "View our Projects"
   categories:
     - title: "BoyThrive Conference"
@@ -188,3 +188,203 @@ portfolios_area:
       url: "#"
       filters:
         - "Mental Health Awareness Program"
+
+    - title: "Project Education & Reproductive Health (1)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/IMG_2578.png"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/IMG_2578.png"
+      url: "#"
+      filters:
+        - "Project Education & Reproductive Health"
+
+    - title: "Project Education & Reproductive Health (2)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0352.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0352.jpg"
+      url: "#"
+      filters:
+        - "Project Education & Reproductive Health"
+
+    - title: "Project Education & Reproductive Health (3)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0357.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0357.jpg"
+      url: "#"
+      filters:
+        - "Project Education & Reproductive Health"
+
+    - title: "Project Education & Reproductive Health (4)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0366.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0366.jpg"
+      url: "#"
+      filters:
+        - "Project Education & Reproductive Health"
+
+    - title: "Project Education & Reproductive Health (5)"
+      sub_title: "Project Education & Reproductive Health Photo"
+      sm_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0390.jpg"
+      big_image: "/assets/images/projects/Project Education & Reproductive Health Photo/MG_0390.jpg"
+      url: "#"
+      filters:
+        - "Project Education & Reproductive Health"
+
+    - title: "Project Empower Her 2023 (1)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4654.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4654.jpeg"
+      url: "#"
+      filters:
+        - "Project Empower Her 2023"
+
+    - title: "Project Empower Her 2023 (2)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4666.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/4666.jpeg"
+      url: "#"
+      filters:
+        - "Project Empower Her 2023"
+
+    - title: "Project Empower Her 2023 (3)"
+      sub_title: "Project Empower Her 2023 Photo"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4686.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4686.jpeg"
+      url: "#"
+      filters:
+        - "Project Empower Her 2023"
+
+    - title: "Project Empower Her 2023 (4)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4696.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4696.jpeg"
+      url: "#"
+      filters:
+        - "Project Empower Her 2023"
+
+    - title: "Project Empower Her 2023 (5)"
+      sub_title: "Project Empower Her 2023"
+      sm_image: "/assets/images/projects/Project Empower Her 2023/IMG_4705.jpeg"
+      big_image: "/assets/images/projects/Project Empower Her 2023/IMG_4705.jpeg"
+      url: "#"
+      filters:
+        - "Project Empower Her 2023"
+
+    - title: "Project Reach IDPs 2023 (1)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5184.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5184.jpeg"
+      url: "#"
+      filters:
+        - "Project Reach IDPs 2023"
+
+    - title: "Project Reach IDPs 2023 (2)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5193.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5193.jpeg"
+      url: "#"
+      filters:
+        - "Project Reach IDPs 2023"
+
+    - title: "Project Reach IDPs 2023 (3)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5199.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5199.jpeg"
+      url: "#"
+      filters:
+        - "Project Reach IDPs 2023"
+
+    - title: "Project Reach IDPs 2023 (4)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5289.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5289.jpeg"
+      url: "#"
+      filters:
+        - "Project Reach IDPs 2023"
+
+    - title: "Project Reach IDPs 2023 (5)"
+      sub_title: "Project Reach IDPs 2023"
+      sm_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5328.jpeg"
+      big_image: "/assets/images/projects/Project Reach IDPs 2023/IMG_5328.jpeg"
+      url: "#"
+      filters:
+        - "Project Reach IDPs 2023"
+
+    - title: "Seen Summit 2024 (1)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-5.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-5.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (2)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-6.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-6.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (3)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-7.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-7.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (4)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-8.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-8.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "Seen Summit 2024 (5)"
+      sub_title: "Seen Summit 2024"
+      sm_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-18.jpeg"
+      big_image: "/assets/images/projects/Seen Summit 2024/SEEN SUMMIT 2024-18.jpeg"
+      url: "#"
+      filters:
+        - "Seen Summit 2024"
+
+    - title: "WASH Project 2024 (1)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5097.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5097.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (2)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5098.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5098.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (3)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5101.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5101.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (4)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5108.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5108.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
+
+    - title: "WASH Project 2024 (5)"
+      sub_title: "WASH Project 2024"
+      sm_image: "/assets/images/projects/WASH Project 2024/IMG_5113.jpeg"
+      big_image: "/assets/images/projects/WASH Project 2024/IMG_5113.jpeg"
+      url: "#"
+      filters:
+        - "WASH Project 2024"
