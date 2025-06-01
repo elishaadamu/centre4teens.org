@@ -2,7 +2,7 @@
 {% if site.data.portfolio_index.portfolios_area.enable %}
 <div class="wrapper light-wrapper">
   <div class="container inner">
-    <h2 class="section-title text-center">
+    <h2 class="section-title text-center" style="font-size: 1.5rem; color: red">
       {{site.data.portfolio_index.portfolios_area.title}}
     </h2>
     <p class="lead larger text-center">
@@ -10,19 +10,6 @@
     </p>
     <div class="space30"></div>
     <div class="grid grid-view boxed">
-      <div class="isotope-filter text-center">
-        <ul>
-          <li><a class="button active" data-filter="*">All</a></li>
-          {% for category in
-          site.data.portfolio_index.portfolios_area.categories %}
-          <li>
-            <a class="button" data-filter=".{{category.filter}}"
-              >{{category.title}}</a
-            >
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
       <div class="clearfix"></div>
       <div class="tiles text-center light-gallery-wrapper">
         <div class="row isotope">
